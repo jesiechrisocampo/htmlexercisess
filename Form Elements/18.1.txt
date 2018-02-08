@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  <select name="cars">
+  <option value="volvo"></option>
+  <option value="ford"></option>
+  <option value="fiat"></option>
+  <option value="audi"></option>
+  </select>
+  <input type="submit">
+</form>
+
+</body>
+</html>
